@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am a student of AltSchool Africa, my goal is to be a full-stack developer, but currently, I am developing my skills as a backend developer 
-in AltSchool Africa.
 
 <!--
 **AugustineAniobasi/AugustineAniobasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
