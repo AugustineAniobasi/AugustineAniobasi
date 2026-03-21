@@ -20,11 +20,9 @@ My core strength lies in understanding systems from **first principles** — not
 
 ## 🧪 Currently Learning & Building
 
-* Deep dive into **Ethereum architecture & EVM internals**
-* Writing and testing **ERC20 / ERC721 implementations**
-* Exploring **security patterns and best practices**
-* Building real-world smart contract systems
-
+* **Smart Contract Security:** Hardening decentralized systems via advanced design patterns (Checks-Effects-Interactions) and vulnerability research (Reentrancy, Logic errors).
+* **Full-Stack Web3 Integration:** Crafting high-performance frontends using React and Tailwind CSS, optimized for EIP-1193/6963 provider environments.
+* Scalable Infrastructure: Building production-ready, audited smart contract systems with a focus on modularity and cross-chain compatibility.
 ---
 
 ## 🛠 Tech Stack
@@ -33,10 +31,13 @@ My core strength lies in understanding systems from **first principles** — not
 
 * Solidity
 * Foundry
+* Hardhat
 
 **Backend**
 
 * Python
+* Django
+* FastAPI
 
 **Database**
 
@@ -48,7 +49,6 @@ My core strength lies in understanding systems from **first principles** — not
 
 * Linux (Ubuntu)
 * Git & GitHub
-* Vim
 * VS Code
 
 ---
@@ -81,7 +81,7 @@ Topics I frequently explore:
 
 * Become a **world-class smart contract engineer**
 * Contribute to **secure DeFi and blockchain infrastructure**
-* Build systems that are both **technically sound and educational**
+* Build systems that are both **technically sound and impactful**
 
 ---
 
