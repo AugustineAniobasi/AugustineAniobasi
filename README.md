@@ -89,7 +89,7 @@ Topics I frequently explore:
 
 * GitHub: https://github.com/AugustineAniobasi
 * Twitter: https://x.com/0xDevSky
-* LinkedIn: linkedin.com/in/augustine-aniobasi
+* LinkedIn: https://linkedin.com/in/augustine-aniobasi
 
 ---
 
